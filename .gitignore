@@ -1,0 +1,7 @@
+/Extra notes.docx
+.env
+venv/
+test_env/
+chroma_db/
+papers_data/*
+!papers_data/.gitkeep
